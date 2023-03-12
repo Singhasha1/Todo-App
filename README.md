@@ -8,7 +8,9 @@ https://singhasha1.github.io/Todo-App
 
 ##Screenshot
 
-![image](https://user-images.githubusercontent.com/112199624/224542339-cf9cafcd-7082-468c-bb5a-f52f2f47a42e.png
+![image](https://user-images.githubusercontent.com/112199624/224558769-7479e6b5-eca2-4993-85c7-a9e85f14de79.png)
+
+
 
 #Installation
 
