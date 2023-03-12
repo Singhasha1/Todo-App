@@ -1,6 +1,16 @@
-# Getting Started with Create React App
+# Todo React App 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a responsive Todo List App coded into React Js language.
+
+For Accessing this website click on the below given link :
+
+https://singhasha1.github.io/Todo-App
+
+##Screenshot
+
+![image](https://user-images.githubusercontent.com/112199624/224542339-cf9cafcd-7082-468c-bb5a-f52f2f47a42e.png
+
+#Installation
 
 ## Available Scripts
 
