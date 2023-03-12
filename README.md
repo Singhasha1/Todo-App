@@ -6,13 +6,13 @@ For Accessing this website click on the below given link :
 
 https://singhasha1.github.io/Todo-App
 
-##Screenshot
+## Screenshot
 
 ![image](https://user-images.githubusercontent.com/112199624/224558769-7479e6b5-eca2-4993-85c7-a9e85f14de79.png)
 
 
 
-#Installation
+# Installation
 
 ## Available Scripts
 
